@@ -1,15 +1,10 @@
-# Scripts-vs.-Programs
+# Scripts vs. Programs
 
-Conduct some research and then write a short paper, consisting of 500 - 600 words in response to the following questions:
+This repository contains a comparison between scripts and programs, explaining their differences and when to use each. It includes examples of both shell scripts and compiled programs.
 
-What are the differences in the purpose, development, and execution of scripts versus programs?
-When is each one appropriate to develop and use?
-Upload a .doc or .docx attachment that includes:
+### Features:
+- Comparison of scripts and compiled programs.
+- Examples of shell scripts and compiled languages.
 
-A submission heading:
-Your First and Last Name
-Professor's Name
-Course Name
-Date
-Assignment Name
-Your responses to the questions listed above.
+This project helps users understand the differences between scripts and programs, and when to use each.
+
